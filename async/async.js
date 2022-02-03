@@ -1,4 +1,6 @@
+//2022.02.03.
 'use strict';
+
 
 // async, await
 // clear style of using promise 
